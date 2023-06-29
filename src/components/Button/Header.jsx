@@ -8,13 +8,13 @@ const Header = () => {
         <div>
           <ul>
             <li>
-              <a href="#home">Email</a>
+              <a href="mailto:anushapatil2208@gmail.com">Email</a>
             </li>
             <li>
-              <a href="#news">Linkedin</a>
+              <a href="https://www.linkedin.com/in/anusha-patil-167b79162/">Linkedin</a>
             </li>
             <li>
-              <a href="#contact">Phone no.</a>
+              <a href="tel:8971232721">Phone no.</a>
             </li>
           </ul>
         </div>

@@ -16,7 +16,7 @@ const Footer = () => {
         <div class="footer-left">
 
           <h4 class="footer-links">
-            <a href="mailto:anushapatil2208@gmail.com">Email</a> · <a href="#">Linkedin</a> · <a href="tel:${8971232721}">Phone no</a>
+            <a href="mailto:anushapatil2208@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/anusha-patil-167b79162/">Linkedin</a> · <a href="tel:8971232721">Phone no</a>
           </h4>
 
           <div class="footer-company-name" onClick={handleClick}>&copy; {year}</div>
