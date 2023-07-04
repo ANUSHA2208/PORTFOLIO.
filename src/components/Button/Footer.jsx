@@ -65,7 +65,7 @@ const Footer = () => {
               value={message}
               onChange={handleMessageChange}
             ></textarea>
-            <button type="submit">Send</button>
+            <button type="submit" class="send">Send</button>
           </form>
         </div>
       </footer>
