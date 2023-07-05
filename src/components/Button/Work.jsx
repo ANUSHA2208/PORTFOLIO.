@@ -1,9 +1,10 @@
 import React from 'react'
 import Gallery from './Gallery'
-import img from '../../assets/images/Page 2 - NFT - Figma 2023-07-05 00-26-21.gif'
+import img from '../../assets/images/nft.gif'
 import img1 from '../../assets/images/yono.png'
 import img2 from '../../assets/images/digi.png'
 import quillbot from '../../assets/images/quillbot.png'
+
 
 
 const Work = () => {
